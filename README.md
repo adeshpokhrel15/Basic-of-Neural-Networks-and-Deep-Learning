@@ -24,6 +24,9 @@ However, although sequential models are extremely common, it is sometimes useful
 
 # 2.Training Deep Neural Networks
 <img src=https://res.cloudinary.com/adeshpokhrel/image/upload/v1621736019/TraininNN_xjmqzj.png>
- 
+
+# 3.Custom Models and Training with TensorFlow
+TensorFlow is a powerful library for numerical computation, particularly well suited and fine-tuned for large-scale Machine Learning
+<img src=https://res.cloudinary.com/adeshpokhrel/image/upload/v1621736647/Tenserflow_v2vyhs.png>
 
 
